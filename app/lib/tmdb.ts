@@ -1,5 +1,4 @@
 import { MediaItem, Video } from "../types/MoviesTV"
-import { Trailer } from "../types/MoviesTV"
 const API_KEY = process.env.MOVIES_API_KEY
 const BASE_URL = "https://api.themoviedb.org/3"
 
